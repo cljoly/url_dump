@@ -18,4 +18,7 @@ POST urls, GET atom feed
   ```
   
 https://docs.rs/scrypt/0.5.0/scrypt/     
-https://docs.rs/warp/0.2.5/warp/
+https://docs.rs/warp/0.2.5/warp/   
+https://docs.rs/rss/1.10.0/rss/index.html
+
+https://choosealicense.com/licenses/agpl-3.0/
